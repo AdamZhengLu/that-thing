@@ -1,16 +1,16 @@
 
 body {
-    background: #fff;
+    background: #C91D28;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
-    color: #fff;
+    color: #C91D28;
     text-align: center;
 }
 
 strong { font-weight: 700; }
 
 a, a:hover, a:focus {
-	color: #FEFEFE;
+	color: #C91D28;
 	text-decoration: none;
     -o-transition: all .3s;
     -moz-transition: all .3s;
@@ -28,8 +28,8 @@ h2 {
 
 img { max-width: 100%; }
 
-::-moz-selection { background: #42bfc2; color: #fff; text-shadow: none; }
-::selection { background: #42bfc2; color: #fff; text-shadow: none; }
+::-moz-selection { background: #42bfc2; color: #C91D28; text-shadow: none; }
+::selection { background: #42bfc2; color: #C91D28; text-shadow: none; }
 
 
 /***** Coming Soon *****/
@@ -124,12 +124,12 @@ footer {
 	margin: 0;
 	font-size: 14px;
     line-height: 32px;
-    color: #fff;
+    color: #C91D28;
     text-align: left;
 }
 
-.footer-copyright a { color: #3f3cce; border-bottom: 1px dotted #3f3cce; }
-.footer-copyright a:hover { color: #3f3cce; border: 0; }
+.footer-copyright a { color: #cdee10; border-bottom: 1px dotted #cdee10; }
+.footer-copyright a:hover { color: #cdee10; border: 0; }
 
 .footer-social {
 	text-align: right;
@@ -201,7 +201,7 @@ input[type="text"]::-webkit-input-placeholder { color: #ad3838; }
 	font-size: 19px;
     font-weight: 300;
     line-height: 52px;
-    color: #fff;
+    color: #C91D28;
     -moz-border-radius: 6px;
     -webkit-border-radius: 6px;
     
@@ -219,7 +219,7 @@ input[type="text"]::-webkit-input-placeholder { color: #ad3838; }
 
 .subscribe button:hover {
     background: #BC1620;
-    color: #fff;
+    color: #C91D28;
     -o-transition: all .3s;
     -moz-transition: all .3s;
     -webkit-transition: all .3s;
@@ -230,7 +230,7 @@ input[type="text"]::-webkit-input-placeholder { color: #ad3838; }
 .subscribe button:active {
 	outline: 0;
     background: #555;
-    color: #fff;
+    color: #C91D28;
     -moz-box-shadow: none;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -239,13 +239,13 @@ input[type="text"]::-webkit-input-placeholder { color: #ad3838; }
 .subscribe button:focus {
 	outline: 0;
 	background: #555;
-	color: #fff;
+	color: #C91D28;
 }
 
 .btn:focus, .btn:active:focus, .btn.active:focus {
 	outline: 0;
 	background: #555;
-	color: #fff;
+	color: #C91D28;
 }
 
 
