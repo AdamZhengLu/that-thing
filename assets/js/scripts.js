@@ -12,10 +12,10 @@ jQuery(document).ready(function() {
     new WOW().init();
     
     /*
-	    Countdown initializer
+	     initializer
 	*/
 	var now = new Date();
-	var countTo = 178 * 24 * 60 * 60 * 1000 + now.valueOf();    
+	var countTo = 145 * 24 * 60 * 60 * 1000 + now.valueOf();    
 	$('.timer').countdown(countTo, function(event) {
 		$(this).find('.days').text(event.offset.totalDays);
 		$(this).find('.hours').text(event.offset.hours);
